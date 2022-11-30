@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MC Project1</string>
+    <string name="TOAST_MSG">Server Script to be called</string>
+    <string-array name="categories">
+        <item>Humans</item>
+        <item>Nature</item>
+        <item>Household Items</item>
+        <item>Buildings</item>
+        <item>Animals</item>
+    </string-array>
+
+    <string name="serverUrl">http://100.77.166.56:8081/</string>
+    <string name="serverUrlSabharieshUbuntu">http://192.168.0.5:8081/</string>
+
+</resources>

@@ -1,0 +1,2 @@
+model_checkpoint_path: "interim_model"
+all_model_checkpoint_paths: "interim_model"
